@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+
+    background-color: #FFA07A;
+    color: #B22222;
+
+    width: 980px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+
+main > h2 {
+    text-align: center;
+    font-size: 25px;
+
+    color: #8B0000;
+    font-style: italic;
+}
+
